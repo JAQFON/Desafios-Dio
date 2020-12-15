@@ -1,9 +1,9 @@
-/ *
+/*
  * 1/3 - Dividindo X por Y
  *
  * Desafio:
  * - Você terá o desafio de escrever um algoritmo que leia 2 números e imprima 
-* o resultado da divisão do primeiro pelo segundo. Caso não seja para possível mostre
+ * o resultado da divisão do primeiro pelo segundo. Caso não seja para possível mostre
  * a mensagem “divisao impossivel” para os valores em questão.
  * 
  * Entrada:
@@ -13,7 +13,7 @@
  * Saída:
  * - Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, 
  * ou “divisao impossivel” caso não seja possível efetuar o cálculo.
- * /
+ */
 
 deixe  limit  =  parseInt ( gets ( ) ) ;
 
